@@ -61,7 +61,6 @@ def dennis_ritchies_language
 end
 
 def adding_matz
-s
 # :yukihio_matsumoto => {
 #   :known_for => "Ruby",
 #    :languages => ["LISP", "C"]
