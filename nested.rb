@@ -83,7 +83,7 @@ programmer_hash[:yukihio_matsumot => {:known_for => "Ruby", :languages => ["LISP
         }
      }
 
-
+programmer_hash[:yukihio_matsumot => {:known_for => "Ruby", :languages => ["LISP", "C"]}]
 end
 
 def changing_alan
